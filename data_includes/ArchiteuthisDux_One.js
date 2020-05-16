@@ -291,8 +291,8 @@ var items = [
 [["filler-coordination",60],DS, {s:"Papagalul şi ele vorbesc foarte mult."}],
 
 [["filler-semanticchoice",61],DS, {s:"Lampa de lângă cartea verde se aprinde uşor."}],
-[["filler-semanticchoice",62],DS, {s:"Fetiţa de lângă camera albastră dansează."}],
-[["filler-semanticchoice",63],DS, {s:"Iepuraşul de lângă scaunul roşu doarme."}],
+[["filler-semanticchoice",62],DS, {s:"Fetiţa de lângă camera albastră dansează frumos."}],
+[["filler-semanticchoice",63],DS, {s:"Iepuraşul de lângă scaunul roşu doarme mult."}],
 [["filler-semanticchoice",64],DS, {s:"Pasărea de lângă masa neagră cântă bine."}],
 [["filler-semanticchoice",65],DS, {s:"Măgarul de lângă căţelul maro rage adesea. "},"QuestionAlt", {q: "Cine rage adesea?", as: ["Măgarul","Căţelul"]}],
 [["filler-semanticchoice",66],DS, {s:"Papucii de lângă copiii bolnavi alunecă uşor."}],
